@@ -1,4 +1,4 @@
-# Emeline Pape — vCard
+# Emeline Pape - vCard
 
 Fichier de contact professionnel (vCard).
 
