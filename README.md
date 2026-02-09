@@ -1,5 +1,5 @@
-# Emeline Pape - vCard
+# Emeline Pape - Contact
 
-Fichier de contact professionnel (vCard).
+Fiche de contact professionnelle virtuelle.
 
 Téléchargement direct pour ajout aux contacts via QR code ou lien GitHub.
