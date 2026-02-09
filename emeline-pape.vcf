@@ -1,0 +1,11 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Pape;Emeline;;;
+FN:Emeline Pape
+TITLE:Architecte d'intérieur, décoratrice
+ORG:Studio Jacmé
+TEL;TYPE=CELL,VOICE:+41783401918
+EMAIL;TYPE=INTERNET:emeline@studiojacme.ch
+ADR;TYPE=WORK:;;Lausanne;;VD;Suisse
+NOTE:Conception et rénovation d’espaces résidentiels et commerciaux.\nValorisation immobilière.
+END:VCARD
