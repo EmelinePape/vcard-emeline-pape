@@ -2,8 +2,8 @@ BEGIN:VCARD
 VERSION:3.0
 N:Pape;Émeline;;;
 FN:Émeline Pape
-ORG:STUDIO JACMÉ
-TITLE:Architecture d'intérieur | Décoration
+ORG:Architecture d'intérieur | Décoration
+TITLE:STUDIO JACMÉ
 TEL;TYPE=CELL,VOICE:+41783401918
 EMAIL;TYPE=INTERNET,WORK:emeline@studiojacme.ch
 ADR;TYPE=WORK:;;Lausanne;;; ;Suisse
@@ -11,6 +11,7 @@ URL:
 NOTE:Projets résidentiels et commerciaux.\nConception | Rénovation | Optimisation des espaces | Design intérieur | Valorisation immobilière
 PHOTO;VALUE=URI:https://raw.githubusercontent.com/EmelinePape/photo-vcard/main/Recto%20adapt%C3%A9%20pour%20Vistaprint.jpg
 END:VCARD
+
 
 
 
